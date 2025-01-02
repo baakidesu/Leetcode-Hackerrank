@@ -1,7 +1,5 @@
 # ninja log v6
-5	233	7575487409230603	CMakeFiles/leetcode.dir/main.cpp.obj	4eccb864aca43487
-234	314	7575487411518588	leetcode.exe	554d2435e9281311
-18	309	7575497449417593	build.ninja	6bbadbdf2f5546ff
 25	68	7575497450924192	CMakeFiles/leetcode.dir/main.cpp.obj	4eccb864aca43487
 28	265	7575497450952969	CMakeFiles/leetcode.dir/Leetcode/Easy/SqrtX.cpp.obj	1b08af6423e37b55
 265	327	7575497453319800	leetcode.exe	210c5d02c46b973d
+18	309	7575502420377682	build.ninja	6bbadbdf2f5546ff

@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(leetcode main.cpp
         Leetcode/Easy/SqrtX.cpp
+        Hackerrank/Easy/InputAndOutput.cpp
 )
