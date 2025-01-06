@@ -2,4 +2,5 @@
 25	68	7575497450924192	CMakeFiles/leetcode.dir/main.cpp.obj	4eccb864aca43487
 28	265	7575497450952969	CMakeFiles/leetcode.dir/Leetcode/Easy/SqrtX.cpp.obj	1b08af6423e37b55
 265	327	7575497453319800	leetcode.exe	210c5d02c46b973d
-18	309	7575502420377682	build.ninja	6bbadbdf2f5546ff
+24	284	7578812032653602	build.ninja	6bbadbdf2f5546ff
+1	281	7578812032653602	build.ninja	6bbadbdf2f5546ff
